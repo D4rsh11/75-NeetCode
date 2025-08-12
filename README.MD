@@ -29,6 +29,9 @@ This repository contains solutions to the 75 NeetCode problems, organized by day
 ├── day5/
 │   ├── Q5_Maximum Subarray.png
 │   └── solution.cpp
+├── day6/
+│   ├── Q6_Maximum Product Subarray.png
+│   └── solution.cpp
 ```
 
 ## Question Links
@@ -42,6 +45,7 @@ Here are the links to the LeetCode questions for each day:
 | Day 3 | Contains Duplicate              | [Link](https://leetcode.com/problems/contains-duplicate/)              |
 | Day 4 | Product of Array Except Self    | [Link](https://leetcode.com/problems/product-of-array-except-self/)    |
 | Day 5 | Maximum Subarray                | [Link](https://leetcode.com/problems/maximum-subarray/)                |
+| Day 6 | Maximum Product Subarray        | [Link](https://leetcode.com/problems/maximum-product-subarray/)        |
 
 ## How to Use
 
@@ -81,5 +85,3 @@ Here are the links to the LeetCode questions for each day:
 		</tr>
 	</table>
 </div>
-
----
