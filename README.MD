@@ -32,6 +32,9 @@ This repository contains solutions to the 75 NeetCode problems, organized by day
 ├── day6/
 │   ├── Q6_Maximum Product Subarray.png
 │   └── solution.cpp
+├── day7/
+│   ├── Q7_Find Minimum in Rotated Sorted Array (Binary Search).png
+│   └── solution.cpp
 ```
 
 ## Question Links
@@ -46,6 +49,7 @@ Here are the links to the LeetCode questions for each day:
 | Day 4 | Product of Array Except Self    | [Link](https://leetcode.com/problems/product-of-array-except-self/)    |
 | Day 5 | Maximum Subarray                | [Link](https://leetcode.com/problems/maximum-subarray/)                |
 | Day 6 | Maximum Product Subarray        | [Link](https://leetcode.com/problems/maximum-product-subarray/)        |
+| Day 7 | Find Minimum in Rotated Sorted Array | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 
 ## How to Use
 
