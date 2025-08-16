@@ -38,6 +38,9 @@ This repository contains solutions to the 75 NeetCode problems, organized by day
 ├── day8/
 │   ├── Q8_Search in Rotated Sorted Array.png
 │   └── solution.cpp
+├── day9/
+│   ├── Q9_3Sum.png
+│   └── solution.cpp
 ```
 
 ## Question Links
@@ -54,6 +57,7 @@ Here are the links to the LeetCode questions for each day:
 | Day 6 | Maximum Product Subarray        | [Link](https://leetcode.com/problems/maximum-product-subarray/)        |
 | Day 7 | Find Minimum in Rotated Sorted Array | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 | Day 8 | Search in Rotated Sorted Array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| Day 9 | 3Sum | [Link](https://leetcode.com/problems/3sum/) |
 
 ## How to Use
 
