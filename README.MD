@@ -41,6 +41,9 @@ This repository contains solutions to the 75 NeetCode problems, organized by day
 ├── day9/
 │   ├── Q9_3Sum.png
 │   └── solution.cpp
+├── day10/
+│   ├── Q10_Container With Most Water(Two Pointers).png
+│   └── solution.cpp
 ```
 
 ## Question Links
@@ -58,6 +61,7 @@ Here are the links to the LeetCode questions for each day:
 | Day 7 | Find Minimum in Rotated Sorted Array | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 | Day 8 | Search in Rotated Sorted Array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 | Day 9 | 3Sum | [Link](https://leetcode.com/problems/3sum/) |
+| Day 10 | Container With Most Water | [Link](https://leetcode.com/problems/container-with-most-water/) |
 
 ## How to Use
 
