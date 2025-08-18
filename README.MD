@@ -44,6 +44,9 @@ This repository contains solutions to the 75 NeetCode problems, organized by day
 ├── day10/
 │   ├── Q10_Container With Most Water(Two Pointers).png
 │   └── solution.cpp
+├── day11/
+│   ├── Q11_Number of 1 Bits.png
+│   └── solution.cpp
 ```
 
 ## Question Links
@@ -62,6 +65,7 @@ Here are the links to the LeetCode questions for each day:
 | Day 8 | Search in Rotated Sorted Array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 | Day 9 | 3Sum | [Link](https://leetcode.com/problems/3sum/) |
 | Day 10 | Container With Most Water | [Link](https://leetcode.com/problems/container-with-most-water/) |
+| Day 11 | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) |
 
 ## How to Use
 
