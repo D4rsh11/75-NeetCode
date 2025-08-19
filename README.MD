@@ -47,6 +47,9 @@ This repository contains solutions to the 75 NeetCode problems, organized by day
 ├── day11/
 │   ├── Q11_Number of 1 Bits.png
 │   └── solution.cpp
+├── day12/
+│   ├── Q12_Counting Bits.png
+│   └── solution.cpp
 ```
 
 ## Question Links
@@ -66,6 +69,7 @@ Here are the links to the LeetCode questions for each day:
 | Day 9 | 3Sum | [Link](https://leetcode.com/problems/3sum/) |
 | Day 10 | Container With Most Water | [Link](https://leetcode.com/problems/container-with-most-water/) |
 | Day 11 | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) |
+| Day 12 | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) |
 
 ## How to Use
 
