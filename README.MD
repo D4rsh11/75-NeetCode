@@ -53,6 +53,9 @@ This repository contains solutions to the 75 NeetCode problems, organized by day
 ├── day13/
 │   ├── Q13_Missing Number.png
 │   └── solution.cpp
+├── day14/
+│   ├── Q14_Reverse Bits.png
+│   └── solution.cpp
 ```
 
 ## Question Links
@@ -74,6 +77,7 @@ Here are the links to the LeetCode questions for each day:
 | Day 11 | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) |
 | Day 12 | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) |
 | Day 13 | Missing Number | [Link](https://leetcode.com/problems/missing-number/) |
+| Day 14 | Reverse Bits | [Link](https://leetcode.com/problems/reverse-bits/) |
 
 ## How to Use
 
