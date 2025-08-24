@@ -56,6 +56,15 @@ This repository contains solutions to the 75 NeetCode problems, organized by day
 ├── day14/
 │   ├── Q14_Reverse Bits.png
 │   └── solution.cpp
+├── day15/
+│   ├── Q15_climbing stairs.png
+│   └── solution.cpp
+├── day16/
+│   ├── Q16_Coin Change.png
+│   └── solution.cpp
+├── day17/
+│   ├── Q17_Longest Increasing Subsequence.png
+│   └── solution.cpp
 ```
 
 ## Question Links
@@ -78,6 +87,9 @@ Here are the links to the LeetCode questions for each day:
 | Day 12 | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) |
 | Day 13 | Missing Number | [Link](https://leetcode.com/problems/missing-number/) |
 | Day 14 | Reverse Bits | [Link](https://leetcode.com/problems/reverse-bits/) |
+| Day 15 | Climbing Stairs | [Link](https://leetcode.com/problems/climbing-stairs/) |
+| Day 16 | Coin Change | [Link](https://leetcode.com/problems/coin-change/) |
+| Day 17 | Longest Increasing Subsequence | [Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
 
 ## How to Use
 
