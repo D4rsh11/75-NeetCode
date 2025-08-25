@@ -65,6 +65,12 @@ This repository contains solutions to the 75 NeetCode problems, organized by day
 ├── day17/
 │   ├── Q17_Longest Increasing Subsequence.png
 │   └── solution.cpp
+├── day18/
+│   ├── Q18_Longest Common Subsequence.png
+│   └── solution.cpp
+├── day19/
+│   ├── Q19_Word Break.png
+│   └── solution.cpp
 ```
 
 ## Question Links
@@ -90,6 +96,8 @@ Here are the links to the LeetCode questions for each day:
 | Day 15 | Climbing Stairs | [Link](https://leetcode.com/problems/climbing-stairs/) |
 | Day 16 | Coin Change | [Link](https://leetcode.com/problems/coin-change/) |
 | Day 17 | Longest Increasing Subsequence | [Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
+| Day 18 | Longest Common Subsequence | [Link](https://leetcode.com/problems/longest-common-subsequence/) |
+| Day 19 | Word Break | [Link](https://leetcode.com/problems/word-break/) |
 
 ## How to Use
 
