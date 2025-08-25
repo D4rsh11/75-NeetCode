@@ -53,6 +53,24 @@ This repository contains solutions to the 75 NeetCode problems, organized by day
 ├── day13/
 │   ├── Q13_Missing Number.png
 │   └── solution.cpp
+├── day14/
+│   ├── Q14_Reverse Bits.png
+│   └── solution.cpp
+├── day15/
+│   ├── Q15_climbing stairs.png
+│   └── solution.cpp
+├── day16/
+│   ├── Q16_Coin Change.png
+│   └── solution.cpp
+├── day17/
+│   ├── Q17_Longest Increasing Subsequence.png
+│   └── solution.cpp
+├── day18/
+│   ├── Q18_Longest Common Subsequence.png
+│   └── solution.cpp
+├── day19/
+│   ├── Q19_Word Break.png
+│   └── solution.cpp
 ```
 
 ## Question Links
@@ -74,6 +92,12 @@ Here are the links to the LeetCode questions for each day:
 | Day 11 | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) |
 | Day 12 | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) |
 | Day 13 | Missing Number | [Link](https://leetcode.com/problems/missing-number/) |
+| Day 14 | Reverse Bits | [Link](https://leetcode.com/problems/reverse-bits/) |
+| Day 15 | Climbing Stairs | [Link](https://leetcode.com/problems/climbing-stairs/) |
+| Day 16 | Coin Change | [Link](https://leetcode.com/problems/coin-change/) |
+| Day 17 | Longest Increasing Subsequence | [Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
+| Day 18 | Longest Common Subsequence | [Link](https://leetcode.com/problems/longest-common-subsequence/) |
+| Day 19 | Word Break | [Link](https://leetcode.com/problems/word-break/) |
 
 ## How to Use
 
